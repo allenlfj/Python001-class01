@@ -36,3 +36,5 @@ Created spider 'movies' using template 'basic' in module:
 5. 通过Proxyspider完成爬虫中间件的作用并，这一块需要加深理解。
 
 注意：在git checkout 2e 的时候遇到文件change的问题，最后通过git reset --hard origin/master
+
+因为前次作业没有实现猫眼电影的爬虫，因此这周难度加大也是没能力实现，只有先学到基本知识再继续学习。
